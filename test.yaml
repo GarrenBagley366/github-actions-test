@@ -1,0 +1,16 @@
+name: Garren
+age: 56
+this: that
+this.those: these
+address: 'df : '
+active: true
+key:
+    key: value
+    key2: 33
+array:
+    -
+        item2: value
+    -
+        item3A: value
+        item3b: value
+longText: "this is a  series of words in a long text\n"
